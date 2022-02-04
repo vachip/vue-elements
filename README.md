@@ -11,4 +11,9 @@ Use as a CommonJS module (for webpack-based projects)
 Browser build
 Server-side rendering build
 
-# https://rollup-plugin-vue.vuejs.org/examples.html
+https://rollup-plugin-vue.vuejs.org/examples.html
+
+
+```
+$ npm publish --access=public
+```
