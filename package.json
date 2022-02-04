@@ -1,6 +1,6 @@
 {
   "name": "@vachip/vue-elements",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Vue form inputs",
   "main": "dist/library.js",
   "module": "dist/library.mjs",
